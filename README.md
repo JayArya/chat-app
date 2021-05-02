@@ -1,6 +1,6 @@
 # chat-app
 A simple web chat application built using Nodejs
-[Visit :rocket:](http://github.com)
+[Visit :rocket:](bit.ly/jynt-chat)
 
 ## Features
 * Built using NodeJS and socket.io
