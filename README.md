@@ -1,6 +1,6 @@
 # chat-app
 A simple web chat application built using Nodejs
-[Visit :rocket:](bit.ly/jynt-chat)
+[Visit :rocket:](https://jynt-chat-app.herokuapp.com/)
 
 ## Features
 * Built using NodeJS and socket.io
